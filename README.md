@@ -1,5 +1,8 @@
 # fp-resultados.capturas
 
+## Repositorio principal
+[fp-resultados](https://github.com/jamj2000/fp-resultados)
+
 ## Código QR de la aplicación
 ![Código QR de la aplicación](https://github.com/jamj2000/fp-resultados.capturas/blob/master/fp-resultados.qr.mini.png "Logo de ejemplo")
 
